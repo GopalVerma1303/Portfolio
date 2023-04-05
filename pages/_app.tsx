@@ -25,10 +25,12 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
   }
 
   return (
-      <ReactBricks {...reactBricksConfig}>
-        <Component {...pageProps} />
-      </ReactBricks>
+    <ReactBricks {...reactBricksConfig}>
+      <Component {...pageProps} />
+    </ReactBricks>
   )
 }
 
 export default MyApp
+
+//random_change_06_04_2023
