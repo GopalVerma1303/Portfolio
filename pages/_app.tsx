@@ -32,5 +32,3 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
 }
 
 export default MyApp
-
-//random_change_06_04_2023
