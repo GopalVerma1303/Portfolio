@@ -34,3 +34,4 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
 export default MyApp
 
 //added new project
+//added https://gopalverma.vercel.app
